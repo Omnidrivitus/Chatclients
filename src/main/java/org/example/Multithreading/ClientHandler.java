@@ -57,5 +57,12 @@ public class ClientHandler implements Runnable {
         }
     }
 }
-// Bufferreader,Buffer writer
+// BufferReader,Buffer writer
 //finally
+//DBMS (database management system)
+//JDBC (java database connectivity)
+//Servlet
+//JSP
+//Thymeleaf
+//Bootstrap
+//mvc-> Model view controller
